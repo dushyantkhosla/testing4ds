@@ -128,11 +128,13 @@ Talks
 
 - [Trey Causey](http://slides.com/treycausey/pydata2015#/)
 - [Kathrine Jarmul](https://blog.kjamistan.com/data-unit-testing-europython-tutorial/)
+- [Hillel Wayne](https://www.youtube.com/watch?v=MYucYon2-lk)
 
 Links
 
 - [pytest](https://docs.pytest.org/en/latest/contents.html)
 - [hypothesis](https://hypothesis.readthedocs.io/en/latest/)
+  - [Hypothesis' Pandas strategies](https://hypothesis.readthedocs.io/en/latest/numpy.html#pandas)
 - [engarde](https://github.com/tomaugspurger/engarde) 
   for testing `pandas.DataFrame` objects 
 - [tdda](https://tdda.readthedocs.io/en/tdda-1.0.04/) for test-driven data analysis
