@@ -136,10 +136,10 @@ Links
 - [hypothesis](https://hypothesis.readthedocs.io/en/latest/)
   - [Hypothesis' Pandas strategies](https://hypothesis.readthedocs.io/en/latest/numpy.html#pandas)
 - [engarde](https://github.com/tomaugspurger/engarde) 
-  for testing `pandas.DataFrame` objects 
-- [tdda](https://tdda.readthedocs.io/en/tdda-1.0.04/) for test-driven data analysis
-  takes data inputs (such as NumPy arrays) and builds a set of constraints around them
+  - for testing `pandas.DataFrame` objects 
+- [tdda](https://tdda.readthedocs.io/en/tdda-1.0.04/) 
+  - for test-driven data analysis takes data inputs (such as NumPy arrays) and builds a set of constraints around them
 - [voluptuous](https://github.com/alecthomas/voluptuous) 
-  for schema definitions
+  - for schema definitions
 - [faker](https://faker.readthedocs.io/en/master/) 
-  generates fake data for you
+  - generates fake data for you
